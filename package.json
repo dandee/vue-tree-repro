@@ -18,7 +18,7 @@
     "test:clearCache": "vue-cli-service test:unit --clearCache && rm -rf node_modules/.cache"
   },
   "dependencies": {
-    "@grapoza/vue-tree": "^3.0.3",
+    "@grapoza/vue-tree": "^3.0.4",
     "@vue/composition-api": "^1.1.1",
     "bootstrap": "4.6.0",
     "bootstrap-vue": "^2.21.2",
